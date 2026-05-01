@@ -1,0 +1,66 @@
+.bg-colors {
+    width: 950px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    background: linear-gradient(
+        to right, #E38525 0% 33%, #016871 33% 66%, #003F3E 66% 100%);
+    border-radius: 10px;
+    color: white;
+}
+.sedan {
+    width: 180px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.suvs {
+    width: 180px;
+    position: absolute;
+    top: 50px;
+    left: 365px;
+}
+.luxury {
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left: 675px;
+}
+img {
+    position: absolute;
+    top: 5px;
+    left: 5px; }
+h1 { 
+    font-size: 35px;
+    position: absolute;
+    top: 40px; 
+    font-family: "Big Shoulders Display", sans-serif;}
+h2 {
+    font-size: 13px;
+    position: absolute;
+    top: 120px; 
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 100;
+    line-height: 1.8; 
+    letter-spacing: 3;
+    word-spacing: 5;
+}
+button {
+    width: 140px;
+    height: 45px;
+    border-radius: 50px;
+    position: absolute;
+    top: 350px; 
+    border: none; 
+    font-family: "Lexend Deca", sans-serif;
+}
+.lm1 {
+    color: #E38525 
+}
+.lm2 {
+    color: #016871
+}
+.lm3 {
+    color: #003F3E
+}
